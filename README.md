@@ -10,7 +10,7 @@ SRS For Banker Customer details
 1.3 Overview
 This project contains the following parts
 Backend Development
-Frontend Development
+Frontend Development 
 work related to banks like creation
 ccount and displaying
 Website Development
