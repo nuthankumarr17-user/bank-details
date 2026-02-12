@@ -6,7 +6,7 @@ SRS For Banker Customer details
 1.1Purpose:
     The purpose of this project is this project is to build a basic bank customer details website. 
 1.2 Scope
-    This website is fast, robust and up to date software support.
+    This website is fast, robust and up to date software support. 
 1.3 Overview
 This project contains the following parts
 Backend Development
